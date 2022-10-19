@@ -80,6 +80,15 @@
             
         - [지금 우리 통화할래?] 술 먹은 다음날 끼부리는 남녀의 전화통화
             ![6](https://user-images.githubusercontent.com/88868181/196591838-67d00fb5-8820-4add-8437-ecdc4d5c42db.png)
+            
+    - WordCloud
+        - [05학번이즈히어] 신도시 아재들
+            ![신도시아재02](https://user-images.githubusercontent.com/88868181/196592401-dd5889c5-97a8-4f9a-93ce-74dc9d634e4b.png)
+
+            
+            
+        - [지금 우리 통화할래?] 술 먹은 다음날 끼부리는 남녀의 전화통화
+            ![지우통01](https://user-images.githubusercontent.com/88868181/196592570-81e4462b-a54c-443f-8b79-595873950b14.png)
 
             
             
